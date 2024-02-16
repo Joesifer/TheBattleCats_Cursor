@@ -1,4 +1,4 @@
-# TheCatBattles_Cursor
+# TheBattleCats_Cursor
 - The Cat Battles Cursor của tui thiết kế, mong mọi người đừng toxic ạ
 
 # Trong bộ cursor bao gồm:
