@@ -1,5 +1,5 @@
 # The Battle Cats Cursor
-### **The Battles Cat Cursor của tui thiết kế, mong mọi người đừng toxic ạ**.
+#### **The Battles Cat Cursor của tui thiết kế, mong mọi người đừng toxic**.
 
 # Trong bộ cursor bao gồm:
 ## 1. **Normal Select**.
