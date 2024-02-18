@@ -2,7 +2,7 @@
 - **The Battles Cat Cursor của tui thiết kế, mong mọi người đừng toxic ạ**.
 
 # Trong bộ cursor bao gồm:
-1. **Normal Select**.
+## 1. **Normal Select**.
 <img src="https://i.imgur.com/b3T00Q6.png" width="300" />
 
 2. **Help Select**.
