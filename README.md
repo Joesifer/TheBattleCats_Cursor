@@ -1,7 +1,7 @@
 # The Battle Cats Cursor
 #### **The Battles Cat Cursor của tui thiết kế, mong mọi người đừng toxic**.
 
-# Trong bộ cursor bao gồm:
+# Trong bộ cursor thứ 1 bao gồm:
 ## 1. **Normal Select**.
 <img src="https://i.imgur.com/b3T00Q6.png" width="300" />
 
@@ -52,3 +52,8 @@
 
 ## 17. **Person Select**.
 <img src="https://i.imgur.com/j5vFL1Q.png" width="300" />
+
+# Trong bộ cursor thứ 2 bao gồm:
+```
+. . . Hiện chưa có . . .
+```
