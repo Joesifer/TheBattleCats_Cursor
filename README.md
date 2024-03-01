@@ -3,55 +3,55 @@
 
 # Trong bộ cursor thứ 1 bao gồm:
 ## 1. **Normal Select**.
-<img src="https://i.imgur.com/b3T00Q6.png" width="300" alt="Normal Select" />
+<img src="https://i.imgur.com/b3T00Q6.png" width="450" alt="Normal Select" />
 
 ## 2. **Help Select**.
-<img src="https://i.imgur.com/SyX6Clz.png" width="300" alt="Help Select" />
+<img src="https://i.imgur.com/SyX6Clz.png" width="450" alt="Help Select" />
 
 ## 3. **Working In Background**.
-<img src="https://i.imgur.com/VcrBQ6s.png" width="300" alt="Working In Background" />
+<img src="https://i.imgur.com/VcrBQ6s.png" width="450" alt="Working In Background" />
 
 ## 4. **Busy**.
-<img src="https://i.imgur.com/FhsvDzS.png" width="300" alt="Busy" />
+<img src="https://i.imgur.com/FhsvDzS.png" width="450" alt="Busy" />
 
 ## 5. **Precision Select**.
-<img src="https://i.imgur.com/SE8YskB.png" width="300" alt="Precision Select" />
+<img src="https://i.imgur.com/SE8YskB.png" width="450" alt="Precision Select" />
 
 ## 6. **Text Select**.
-<img src="https://i.imgur.com/DjWYI4W.png" width="300" alt="Text Select" />
+<img src="https://i.imgur.com/DjWYI4W.png" width="450" alt="Text Select" />
 
 ## 7. **Handwriting**.
-<img src="https://i.imgur.com/IEryvP7.png" width="300" alt="Handwriting" />
+<img src="https://i.imgur.com/IEryvP7.png" width="450" alt="Handwriting" />
 
 ## 8. **Unavailable**.
-<img src="https://i.imgur.com/YULCgmm.png" width="300" alt="Unavailable" />
+<img src="https://i.imgur.com/YULCgmm.png" width="450" alt="Unavailable" />
 
 ## 9. **Vertical Resize**.
-<img src="https://i.imgur.com/CaKWIhg.png" width="300" alt="Vertical Resize" />
+<img src="https://i.imgur.com/CaKWIhg.png" width="450" alt="Vertical Resize" />
 
 ## 10. **Horizontal Resize**.
-<img src="https://i.imgur.com/b9wOcJw.png" width="300" alt="Horizontal Resize" />
+<img src="https://i.imgur.com/b9wOcJw.png" width="450" alt="Horizontal Resize" />
 
 ## 11. **Diagonal Resize 1**.
-<img src="https://i.imgur.com/vCk8GYL.png" width="300" alt="Diagonal Resize 1" />
+<img src="https://i.imgur.com/vCk8GYL.png" width="450" alt="Diagonal Resize 1" />
 
 ## 12. **Diagonal Resize 2**.
-<img src="https://i.imgur.com/trIHfko.png" width="300" alt="Diagonal Resize 2" />
+<img src="https://i.imgur.com/trIHfko.png" width="450" alt="Diagonal Resize 2" />
 
 ## 13. **Move**.
-<img src="https://i.imgur.com/isuSQQO.png" width="300" alt="Move" />
+<img src="https://i.imgur.com/isuSQQO.png" width="450" alt="Move" />
 
 ## 14. **Alternate Select**.
-<img src="https://i.imgur.com/iWu0boU.png" width="300" alt="Alternate Select" />
+<img src="https://i.imgur.com/iWu0boU.png" width="450" alt="Alternate Select" />
 
 ## 15. **Link Select**.
-<img src="https://i.imgur.com/umubFOs.png" width="300" alt="Link Select" />
+<img src="https://i.imgur.com/umubFOs.png" width="450" alt="Link Select" />
 
 ## 16. **Location Select**.
-<img src="https://i.imgur.com/y7enXYp.png" width="300" alt="Location Select" />
+<img src="https://i.imgur.com/y7enXYp.png" width="450" alt="Location Select" />
 
 ## 17. **Person Select**.
-<img src="https://i.imgur.com/j5vFL1Q.png" width="300" alt="Person Select"/>
+<img src="https://i.imgur.com/j5vFL1Q.png" width="450" alt="Person Select"/>
 
 # Trong bộ cursor thứ 2 bao gồm:
 ```
