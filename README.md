@@ -59,14 +59,14 @@
 ```
 
 # Cach thay doi con tro chuot Windows 11
-### Buoc 1: Nhan to hop phim Windows + I de mo nhanh Settings.
+### Buoc 1: Nhan to hop phim **Windows** + **I** de mo nhanh Settings.
 <img src="https://cdn.tgdd.vn/Files/2021/09/20/1384254/buoc1-_1366x768-800-resize.jpg" />
 
-### Buoc 2: Sau do chon vao muc Accessibility va chon Mouse pointer and touch.
+### Buoc 2: Sau do chon vao muc **Accessibility** va chon **Mouse pointer and touch**.
 <img src="https://cdn.tgdd.vn/Files/2021/09/20/1384254/buoc2-_1366x768-800-resize.jpg" />
 
-### Buoc 3: Sau khi da mo Mouse pointer and touch, ban se thay mot loat cac tuy chinh nhu mau sac, kich thuoc hoac kieu dang chuot. Ban co the thay doi kich thuoc chuot bang cach di chuyen con truot tren thanh Size de phong to hoac thu nho con tro chuot.
+### Buoc 3: Sau khi da mo **Mouse pointer and touch**, ban se thay mot loat cac tuy chinh nhu mau sac, kich thuoc hoac kieu dang chuot. Ban co the thay doi kich thuoc chuot bang cach di chuyen con truot tren thanh Size de phong to hoac thu nho con tro chuot.
 <img src="https://cdn.tgdd.vn/Files/2021/09/20/1384254/buoc3-_1366x768-800-resize.jpg" />
 
-### - Ban cung co the dieu chinh toc do chuot theo y muon bang cach nhan vao tuy chon Mouse va keo chuot theo chieu tu trai sang phai theo muc do tang dan.
+### - Ban cung co the dieu chinh toc do chuot theo y muon bang cach nhan vao tuy chon **Mouse** va keo chuot theo chieu tu trai sang phai theo muc do tang dan.
 <img src="https://cdn.tgdd.vn/Files/2021/09/20/1384254/buoc4-_1366x768-800-resize.jpg" />
