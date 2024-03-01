@@ -58,7 +58,7 @@
 . . . Hiện chưa có . . .
 ```
 
-# Cach thay doi con tro chuot Windows 11 theo link huong dan: [Link huong dan][https://www.thegioididong.com/tin-tuc/cach-thay-doi-con-tro-chuot-tren-windows-11-1384254#:~:text=B%C6%B0%E1%BB%9Bc%201%3A%20Nh%E1%BA%A5n%20t%E1%BB%95%20h%E1%BB%A3p,th%C6%B0%E1%BB%9Bc%20ho%E1%BA%B7c%20ki%E1%BB%83u%20d%C3%A1ng%20chu%E1%BB%99t].
+# Cach thay doi con tro chuot Windows 11 theo link huong dan: [Link huong dan](https://www.thegioididong.com/tin-tuc/cach-thay-doi-con-tro-chuot-tren-windows-11-1384254#:~:text=B%C6%B0%E1%BB%9Bc%201%3A%20Nh%E1%BA%A5n%20t%E1%BB%95%20h%E1%BB%A3p,th%C6%B0%E1%BB%9Bc%20ho%E1%BA%B7c%20ki%E1%BB%83u%20d%C3%A1ng%20chu%E1%BB%99t).
 
 ### Buoc 1: Nhan to hop phim **Windows** + **I** de mo nhanh Settings.
 <img src="https://cdn.tgdd.vn/Files/2021/09/20/1384254/buoc1-_1366x768-800-resize.jpg" width="450" alt="Huong dan" />
