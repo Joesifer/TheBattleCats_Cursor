@@ -94,7 +94,7 @@
 
 ### Buoc 1: Nhan to hop phim **Windows** + **I** de mo nhanh Settings.
 <h1 align="center">
-<img src="https://cdn.tgdd.vn/Files/2021/09/20/1384254/buoc1-_1366x768-800-resize.jpg" width="450" alt="Huong dan" />
+<img src="https://i.imgur.com/jk09jFK.jpeg" width="450" alt="Huong dan" />
 </h1><br>
 
 ### Buoc 2: Sau do chon vao muc **Accessibility** va chon **Mouse pointer and touch**.
